@@ -1,0 +1,285 @@
+{
+  "home": {
+    "title": "Catatan",
+    "calendar": "Kalender",
+    "Coach": "Pelatih",
+    "planlife": "Rencanakan Hidup Anda",
+    "healthyliving": "Hidup Sehat",
+    "loverelation": "Cinta & Hubungan",
+    "travel": "Perjalanan",
+    "categorydetail1": "Bangun rutinitas dan gaya hidup yang mendukung tujuan Anda.",
+    "categorydetail2": "Kendalikan kesehatan dan kebugaran Anda—pikiran, tubuh, dan jiwa.",
+    "categorydetail3": "Jaga hubungan yang paling penting, termasuk dengan diri sendiri.",
+    "categorydetail4": "Rencanakan petualangan Anda dan abadikan kenangan selamanya.",
+    "useThisTemplate": "Gunakan template ini untuk",
+    "Notifications": "Notifikasi",
+    "reminders": "Pengingat AKTIF",
+    "NoteReminders": "Pengingat Catatan",
+    "getnotified": "Dapatkan notifikasi pada tengah malam di tanggal catatan Anda",
+    "noupcoming": "Tidak ada pengingat mendatang",
+    "addnoteswith": "Tambahkan catatan dengan tanggal mendatang dari tab Kalender untuk mendapatkan pengingat tengah malam.",
+    "reminderone": "Pengingat AKTIF",
+    "reminderoff": "Pengingat NONAKTIF",
+    "Notificationsdisabled": "Notifikasi Dinonaktifkan",
+    "allreminders": "Semua pengingat telah dibatalkan",
+    "notificationsenabled": "Notifikasi Diaktifkan",
+    "notificationsareon": "Notifikasi AKTIF. Catatan mendatang akan mengirim pengingat pada tengah malam.",
+    "gotit": "Mengerti",
+    "permissionRequired": "Izin Diperlukan",
+    "pleaseAllow": "Silakan izinkan notifikasi di pengaturan perangkat Anda",
+    "thistempletehelps": "Template ini membantu Anda tetap terorganisir dan fokus setiap hari.",
+    "template": "Template",
+    "useTemplete": "Gunakan Template",
+    "createNote": "Buat Catatan",
+    "searchPlaceholder": "Cari catatan...",
+    "pin": "Sematkan",
+    "share": "Bagikan",
+    "delete": "Hapus",
+    "all": "Semua",
+    "pinned": "Disematkan",
+    "save": "Simpan",
+    "language": "Bahasa",
+    "settings": "Pengaturan",
+    "personalization": "Personalisasi",
+    "theme": "Tema Aplikasi",
+    "about": "Tentang",
+    "appversion": "Versi Aplikasi",
+    "selecttheme": "Pilih Tema",
+    "mode": "Mode",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem",
+    "noNote": "Belum ada catatan",
+    "nonoteMatch": "Tidak ada catatan yang cocok dengan pencarian Anda",
+    "firstTap": "Ketuk tombol + untuk membuat catatan pertama Anda",
+    "noPinNot": "Tidak ada catatan yang disematkan. Sematkan catatan untuk melihatnya di sini.",
+    "eachLine": "Setiap baris akan menjadi poin daftar",
+    "styleText": "Gaya teks Anda",
+    "deleteNote": "Hapus catatan",
+    "deleteShort": "Apakah Anda yakin ingin menghapus catatan ini?",
+    "cancel": "Batal",
+    "unpin": "Lepas pin",
+    "restorepurchase": "Pulihkan Pembelian",
+    "privacypolicy": "Kebijakan Privasi",
+    "termsofuse": "Ketentuan Penggunaan",
+    "managesubscription": "Kelola Langganan",
+    "subscribenow": "Berlangganan Sekarang",
+    "removeads": "Hilangkan iklan dan buka fitur premium.",
+    "activecolor": "Warna aktif",
+    "tapcolorchange": "Ketuk warna untuk mengubah",
+    "Opacity": "Opasitas",
+    "Size": "Ukuran",
+    "savedrawing": "Simpan gambar",
+    "gopremiumtosave": "Upgrade ke Premium untuk menyimpan langsung.",
+    "gopremium": "Ke Premium",
+    "Cancel": "Batal",
+    "addsticker": "Tambah stiker",
+    "addtext": "Tambah teks",
+    "Discardchanges": "Buang perubahan?",
+    "unsavedchanges": "Anda memiliki perubahan yang belum disimpan. Yakin ingin membuangnya?",
+    "keepEditing": "Lanjutkan mengedit",
+    "discard": "Buang",
+    "destructive": "Destruktif",
+    "add": "Tambah",
+    "clearcanvas": "Bersihkan kanvas",
+    "clearalldrawing": "Hapus semua gambar?",
+    "Clear": "Hapus",
+    "Checklist": "Daftar Periksa",
+    "Note": "Catatan",
+    "checklisttitle": "Judul daftar",
+    "listitem": "Item daftar",
+    "additem": "Tambah item",
+    "titlenot": "Judul",
+    "starttyping": "Mulailah mengetik",
+    "rateus": "Beri kami penilaian",
+    "column_options": "Opsi Kolom",
+    "add_col": "Tambah Kolom",
+    "delete_last_col": "Hapus Kolom Terakhir",
+    "Table_options": "Opsi Tabel",
+    "add_row": "Tambah Baris",
+    "delete_row": "Hapus Baris",
+    "delete_col": "Hapus Kolom Terakhir",
+    "remove_table": "Hapus Tabel",
+    "row_options": "Opsi Baris",
+    "delete_last_row": "Hapus Baris Terakhir",
+    "saved": "Tersimpan!",
+    "image_saved": "Gambar disimpan ke galeri",
+    "ok": "OK",
+    "permission_need": "Izin diperlukan",
+    "please_allow_access": "Silakan izinkan akses untuk menyimpan ke galeri.",
+    "could_note_capture": "Tidak dapat menangkap gambar",
+    "Error": "Kesalahan",
+    "saved!": "Tersimpan! ✓",
+    "drawing_saved_to_your": "Gambar disimpan ke galeri Anda",
+    "nothing_save": "Tidak ada yang disimpan",
+    "draw_something": "Gambar sesuatu terlebih dahulu!",
+    "please_allow_save_image": "Silakan izinkan akses untuk menyimpan gambar ke galeri."
+  },
+  "categories": {
+    "All": "Semua",
+    "Personal": "Pribadi",
+    "Work": "Pekerjaan",
+    "Ideas": "Ide",
+    "Todo": "Tugas",
+    "Shopping": "Belanja",
+    "Study": "Belajar",
+    "Health": "Kesehatan",
+    "Finance": "Keuangan",
+    "Travel": "Perjalanan",
+    "Other": "Lainnya"
+  },
+  "language": {
+    "error": "Gagal mengubah bahasa",
+    "errorTitle": "Kesalahan",
+    "success": "Bahasa berhasil diubah!",
+    "successTitle": "Berhasil"
+  },
+  "model": {
+    "newnote": "Catatan baru",
+    "noteTitle": "Judul catatan",
+    "category": "Kategori",
+    "noteColor": "Warna catatan",
+    "textFormatting": "Format teks",
+    "styleText": "Gaya teks Anda",
+    "content": "Konten",
+    "writeNote": "Tulis catatan Anda di sini...",
+    "attachImage": "Lampirkan gambar",
+    "addImages": "Tambah gambar",
+    "editNote": "Edit catatan",
+    "imageadded": "Gambar ditambahkan",
+    "itemsList": "Ketik item daftar Anda...",
+    "NoteTheme": "Tema Catatan",
+    "FontStyle": "Gaya Font"
+  },
+  "templates": {
+    "finishing-manifesto": {
+      "title": "Manifesto Penyelesaian",
+      "description": "Selesaikan rencana dan tugas Anda dengan sukses."
+    },
+    "atomic-habits": {
+      "title": "Niat Kebiasaan Atomik",
+      "description": "Tetapkan kebiasaan dan niat Anda untuk hari ini."
+    },
+    "daily-planner": {
+      "title": "Perencana Harian",
+      "description": "Rencanakan hari Anda untuk produktivitas maksimal."
+    },
+    "weekly-goals": {
+      "title": "Tujuan Mingguan",
+      "description": "Tetapkan dan lacak tujuan Anda selama seminggu."
+    },
+    "vision-board": {
+      "title": "Catatan Papan Visi",
+      "description": "Tuliskan impian dan visi jangka panjang Anda."
+    },
+    "budget-planner": {
+      "title": "Anggaran Bulanan",
+      "description": "Lacak pemasukan dan pengeluaran setiap bulan."
+    },
+    "anger-log": {
+      "title": "Catatan Kemarahan",
+      "description": "Catat pengalaman yang memengaruhi suasana hati Anda."
+    },
+    "calorie-counter": {
+      "title": "Penghitung Kalori",
+      "description": "Pantau asupan kalori harian Anda."
+    },
+    "gratitude-journal": {
+      "title": "Jurnal Syukur",
+      "description": "Bangun pola pikir positif dengan rasa syukur harian."
+    },
+    "workout-log": {
+      "title": "Catatan Latihan",
+      "description": "Pantau sesi olahraga dan kemajuan Anda."
+    },
+    "sleep-tracker": {
+      "title": "Pelacak Tidur",
+      "description": "Pantau kualitas dan pola tidur Anda."
+    },
+    "water-intake": {
+      "title": "Asupan Air",
+      "description": "Tetap terhidrasi dengan melacak konsumsi air harian."
+    },
+    "love-letter": {
+      "title": "Surat Cinta",
+      "description": "Ungkapkan perasaan Anda kepada seseorang yang spesial."
+    },
+    "relationship-goals": {
+      "title": "Tujuan Hubungan",
+      "description": "Tetapkan tujuan bermakna dengan pasangan Anda."
+    },
+    "date-night-planner": {
+      "title": "Perencana Kencan",
+      "description": "Rencanakan malam kencan yang sempurna."
+    },
+    "self-love-journal": {
+      "title": "Jurnal Cinta Diri",
+      "description": "Rawat hubungan Anda dengan diri sendiri setiap hari."
+    },
+    "trip-planner": {
+      "title": "Perencana Perjalanan",
+      "description": "Rencanakan setiap detail petualangan Anda."
+    },
+    "packing-list": {
+      "title": "Daftar Barang",
+      "description": "Jangan lupa apa pun untuk perjalanan Anda."
+    },
+    "travel-journal": {
+      "title": "Jurnal Perjalanan",
+      "description": "Abadikan kenangan saat bepergian."
+    },
+    "road-trip": {
+      "title": "Perencana Road Trip",
+      "description": "Rencanakan perjalanan darat yang seru dan aman."
+    }
+  },
+  "calendar": {
+    "today": "Hari ini",
+    "month": {
+      "january": "Januari",
+      "february": "Februari",
+      "march": "Maret",
+      "april": "April",
+      "may": "Mei",
+      "june": "Juni",
+      "july": "Juli",
+      "august": "Agustus",
+      "september": "September",
+      "october": "Oktober",
+      "november": "November",
+      "december": "Desember"
+    },
+    "monthShort": {
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "Mei",
+      "jun": "Jun",
+      "jul": "Jul",
+      "aug": "Agu",
+      "sep": "Sep",
+      "oct": "Okt",
+      "nov": "Nov",
+      "dec": "Des"
+    },
+    "day": {
+      "sunday": "Minggu",
+      "monday": "Senin",
+      "tuesday": "Selasa",
+      "wednesday": "Rabu",
+      "thursday": "Kamis",
+      "friday": "Jumat",
+      "saturday": "Sabtu"
+    },
+    "dayShort": {
+      "sun": "Min",
+      "mon": "Sen",
+      "tue": "Sel",
+      "wed": "Rab",
+      "thu": "Kam",
+      "fri": "Jum",
+      "sat": "Sab"
+    }
+  }
+}

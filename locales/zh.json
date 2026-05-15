@@ -1,0 +1,285 @@
+{
+  "home": {
+    "title": "笔记",
+    "calendar": "日历",
+    "Coach": "教练",
+    "planlife": "规划你的生活",
+    "healthyliving": "健康生活",
+    "loverelation": "爱情与关系",
+    "travel": "旅行",
+    "categorydetail1": "建立有助于实现目标的日常习惯和生活方式。",
+    "categorydetail2": "掌控你的健康和体能——身心灵。",
+    "categorydetail3": "培养重要的人际关系，包括与自己的关系。",
+    "categorydetail4": "规划你的冒险并记录美好回忆。",
+    "useThisTemplate": "使用此模板来",
+    "Notifications": "通知",
+    "reminders": "提醒已开启",
+    "NoteReminders": "笔记提醒",
+    "getnotified": "在笔记日期的午夜收到通知",
+    "noupcoming": "没有即将到来的提醒",
+    "addnoteswith": "在日历中添加未来日期的笔记以获取提醒。",
+    "reminderone": "提醒已开启",
+    "reminderoff": "提醒已关闭",
+    "Notificationsdisabled": "通知已关闭",
+    "allreminders": "所有提醒已取消",
+    "notificationsenabled": "通知已开启",
+    "notificationsareon": "通知已开启。未来的笔记将在午夜发送提醒。",
+    "gotit": "知道了",
+    "permissionRequired": "需要权限",
+    "pleaseAllow": "请在设备设置中允许通知",
+    "thistempletehelps": "此模板帮助你每天保持有序并专注目标。",
+    "template": "模板",
+    "useTemplete": "使用模板",
+    "createNote": "创建笔记",
+    "searchPlaceholder": "搜索笔记...",
+    "pin": "置顶",
+    "share": "分享",
+    "delete": "删除",
+    "all": "全部",
+    "pinned": "已置顶",
+    "save": "保存",
+    "language": "语言",
+    "settings": "设置",
+    "personalization": "个性化",
+    "theme": "应用主题",
+    "about": "关于",
+    "appversion": "应用版本",
+    "selecttheme": "选择主题",
+    "mode": "模式",
+    "light": "浅色",
+    "dark": "深色",
+    "system": "系统",
+    "noNote": "暂无笔记",
+    "nonoteMatch": "没有与您的搜索匹配的笔记",
+    "firstTap": "点击 + 按钮创建您的第一条笔记",
+    "noPinNot": "没有置顶的笔记。置顶一条笔记即可在这里查看。",
+    "eachLine": "每一行都会变成一个项目符号",
+    "styleText": "设置文本样式",
+    "deleteNote": "删除笔记",
+    "deleteShort": "您确定要删除此笔记吗？",
+    "cancel": "取消",
+    "unpin": "取消固定",
+    "restorepurchase": "恢复购买",
+    "privacypolicy": "隐私政策",
+    "termsofuse": "使用条款",
+    "managesubscription": "管理订阅",
+    "subscribenow": "立即订阅",
+    "removeads": "移除广告并解锁高级功能。",
+    "activecolor": "当前颜色",
+    "tapcolorchange": "点击颜色进行更改",
+    "Opacity": "不透明度",
+    "Size": "大小",
+    "savedrawing": "保存绘图",
+    "gopremiumtosave": "升级到高级版即可立即保存。",
+    "gopremium": "升级到高级版",
+    "Cancel": "取消",
+    "addsticker": "添加贴纸",
+    "addtext": "添加文字",
+    "Discardchanges": "放弃更改？",
+    "unsavedchanges": "您有未保存的更改。确定要放弃吗？",
+    "keepEditing": "继续编辑",
+    "discard": "放弃",
+    "destructive": "破坏性",
+    "add": "添加",
+    "clearcanvas": "清除画布",
+    "clearalldrawing": "清除所有绘图？",
+    "Clear": "清除",
+    "Checklist": "清单",
+    "Note": "笔记",
+    "checklisttitle": "清单标题",
+    "listitem": "列表项",
+    "additem": "添加项目",
+    "titlenot": "标题",
+    "starttyping": "开始打字",
+    "rateus": "给我们评分",
+    "column_options": "列选项",
+    "add_col": "添加列",
+    "delete_last_col": "删除最后一列",
+    "Table_options": "表格选项",
+    "add_row": "添加行",
+    "delete_row": "删除行",
+    "delete_col": "删除最后一列",
+    "remove_table": "删除表格",
+    "row_options": "行选项",
+    "delete_last_row": "删除最后一行",
+    "saved": "已保存！",
+    "image_saved": "图片已保存到图库",
+    "ok": "确定",
+    "permission_need": "需要权限",
+    "please_allow_access": "请允许访问以保存到图库。",
+    "could_note_capture": "无法捕获绘图",
+    "Error": "错误",
+    "saved!": "已保存！✓",
+    "drawing_saved_to_your": "绘图已保存到您的图库",
+    "nothing_save": "没有可保存的内容",
+    "draw_something": "请先画点什么！",
+    "please_allow_save_image": "请允许访问以将图片保存到图库。"
+  },
+  "categories": {
+    "All": "全部",
+    "Personal": "个人",
+    "Work": "工作",
+    "Ideas": "想法",
+    "Todo": "待办事项",
+    "Shopping": "购物",
+    "Study": "学习",
+    "Health": "健康",
+    "Finance": "财务",
+    "Travel": "旅行",
+    "Other": "其他"
+  },
+  "language": {
+    "error": "无法更改语言",
+    "errorTitle": "错误",
+    "success": "语言更改成功！",
+    "successTitle": "成功"
+  },
+  "model": {
+    "newnote": "新笔记",
+    "noteTitle": "笔记标题",
+    "category": "类别",
+    "noteColor": "笔记颜色",
+    "textFormatting": "文本格式",
+    "styleText": "设置文本样式",
+    "content": "内容",
+    "writeNote": "在这里写下你的笔记...",
+    "attachImage": "附加图片",
+    "addImages": "添加图片",
+    "editNote": "编辑笔记",
+    "imageadded": "图片已添加",
+    "itemsList": "输入您的列表项目...",
+    "NoteTheme": "笔记主题",
+    "FontStyle": "字体样式"
+  },
+  "templates": {
+    "finishing-manifesto": {
+      "title": "完成宣言",
+      "description": "成功完成你的计划和任务。"
+    },
+    "atomic-habits": {
+      "title": "原子习惯意图",
+      "description": "设定你今天的习惯和目标。"
+    },
+    "daily-planner": {
+      "title": "每日计划",
+      "description": "规划你的一天以实现最大效率。"
+    },
+    "weekly-goals": {
+      "title": "每周目标",
+      "description": "设定并跟踪你一周的目标。"
+    },
+    "vision-board": {
+      "title": "愿景板笔记",
+      "description": "记录你的梦想和长期愿景。"
+    },
+    "budget-planner": {
+      "title": "每月预算",
+      "description": "跟踪每月的收入和支出。"
+    },
+    "anger-log": {
+      "title": "情绪记录",
+      "description": "记录影响你情绪的经历。"
+    },
+    "calorie-counter": {
+      "title": "卡路里计数器",
+      "description": "跟踪每日的卡路里摄入。"
+    },
+    "gratitude-journal": {
+      "title": "感恩日记",
+      "description": "通过每日感恩培养积极心态。"
+    },
+    "workout-log": {
+      "title": "锻炼记录",
+      "description": "记录你的锻炼和进展。"
+    },
+    "sleep-tracker": {
+      "title": "睡眠跟踪",
+      "description": "监测你的睡眠质量和模式。"
+    },
+    "water-intake": {
+      "title": "饮水记录",
+      "description": "通过记录每日饮水保持健康。"
+    },
+    "love-letter": {
+      "title": "情书",
+      "description": "向特别的人表达你的感情。"
+    },
+    "relationship-goals": {
+      "title": "关系目标",
+      "description": "与伴侣设定有意义的目标。"
+    },
+    "date-night-planner": {
+      "title": "约会计划",
+      "description": "计划一个完美的约会。"
+    },
+    "self-love-journal": {
+      "title": "自爱日记",
+      "description": "每天培养与自己的关系。"
+    },
+    "trip-planner": {
+      "title": "旅行计划",
+      "description": "规划下一次冒险的每个细节。"
+    },
+    "packing-list": {
+      "title": "行李清单",
+      "description": "旅行时不要忘记任何东西。"
+    },
+    "travel-journal": {
+      "title": "旅行日记",
+      "description": "记录你的旅行回忆。"
+    },
+    "road-trip": {
+      "title": "自驾游计划",
+      "description": "规划一次有趣又安全的旅程。"
+    }
+  },
+  "calendar": {
+    "today": "今天",
+    "month": {
+      "january": "一月",
+      "february": "二月",
+      "march": "三月",
+      "april": "四月",
+      "may": "五月",
+      "june": "六月",
+      "july": "七月",
+      "august": "八月",
+      "september": "九月",
+      "october": "十月",
+      "november": "十一月",
+      "december": "十二月"
+    },
+    "monthShort": {
+      "jan": "1月",
+      "feb": "2月",
+      "mar": "3月",
+      "apr": "4月",
+      "may": "5月",
+      "jun": "6月",
+      "jul": "7月",
+      "aug": "8月",
+      "sep": "9月",
+      "oct": "10月",
+      "nov": "11月",
+      "dec": "12月"
+    },
+    "day": {
+      "sunday": "星期日",
+      "monday": "星期一",
+      "tuesday": "星期二",
+      "wednesday": "星期三",
+      "thursday": "星期四",
+      "friday": "星期五",
+      "saturday": "星期六"
+    },
+    "dayShort": {
+      "sun": "日",
+      "mon": "一",
+      "tue": "二",
+      "wed": "三",
+      "thu": "四",
+      "fri": "五",
+      "sat": "六"
+    }
+  }
+}

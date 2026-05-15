@@ -1,0 +1,285 @@
+{
+  "home": {
+    "title": "노트",
+    "calendar": "캘린더",
+    "Coach": "코치",
+    "planlife": "삶 계획하기",
+    "healthyliving": "건강한 생활",
+    "loverelation": "사랑과 관계",
+    "travel": "여행",
+    "categorydetail1": "목표에 맞는 루틴과 라이프스타일을 만드세요.",
+    "categorydetail2": "건강과 피트니스—마음, 몸, 영혼을 관리하세요.",
+    "categorydetail3": "자신을 포함해 중요한 관계를 키우세요.",
+    "categorydetail4": "여행을 계획하고 오래 남을 추억을 만드세요.",
+    "useThisTemplate": "이 템플릿을 사용하여",
+    "Notifications": "알림",
+    "reminders": "알림 켜짐",
+    "NoteReminders": "노트 알림",
+    "getnotified": "노트 날짜 자정에 알림 받기",
+    "noupcoming": "예정된 알림 없음",
+    "addnoteswith": "캘린더에서 미래 날짜 노트를 추가해 알림을 받으세요.",
+    "reminderone": "알림 켜짐",
+    "reminderoff": "알림 꺼짐",
+    "Notificationsdisabled": "알림 비활성화",
+    "allreminders": "모든 알림이 취소되었습니다",
+    "notificationsenabled": "알림 활성화",
+    "notificationsareon": "알림이 켜져 있습니다. 미래 노트는 자정에 알림을 보냅니다.",
+    "gotit": "확인",
+    "permissionRequired": "권한 필요",
+    "pleaseAllow": "설정에서 알림을 허용해주세요",
+    "thistempletehelps": "이 템플릿은 매일 정리되고 목표에 집중하는 데 도움을 줍니다.",
+    "template": "템플릿",
+    "useTemplete": "템플릿 사용",
+    "createNote": "노트 만들기",
+    "searchPlaceholder": "노트 검색...",
+    "pin": "고정",
+    "share": "공유",
+    "delete": "삭제",
+    "all": "전체",
+    "pinned": "고정됨",
+    "save": "저장",
+    "language": "언어",
+    "settings": "설정",
+    "personalization": "개인화",
+    "theme": "앱 테마",
+    "about": "정보",
+    "appversion": "앱 버전",
+    "selecttheme": "테마 선택",
+    "mode": "모드",
+    "light": "라이트",
+    "dark": "다크",
+    "system": "시스템",
+    "noNote": "아직 노트가 없습니다",
+    "nonoteMatch": "검색과 일치하는 노트가 없습니다",
+    "firstTap": "+ 버튼을 눌러 첫 번째 노트를 만들어 보세요",
+    "noPinNot": "고정된 노트가 없습니다. 노트를 고정하면 여기에 표시됩니다.",
+    "eachLine": "각 줄은 글머리표 항목이 됩니다",
+    "styleText": "텍스트 스타일 설정",
+    "deleteNote": "노트 삭제",
+    "deleteShort": "이 노트를 삭제하시겠습니까?",
+    "cancel": "취소",
+    "unpin": "고정 해제",
+    "restorepurchase": "구매 복원",
+    "privacypolicy": "개인정보 처리방침",
+    "termsofuse": "이용 약관",
+    "managesubscription": "구독 관리",
+    "subscribenow": "지금 구독하기",
+    "removeads": "광고를 제거하고 프리미엄 기능을 잠금 해제하세요.",
+    "activecolor": "활성 색상",
+    "tapcolorchange": "색상을 탭하여 변경",
+    "Opacity": "불투명도",
+    "Size": "크기",
+    "savedrawing": "그림 저장",
+    "gopremiumtosave": "즉시 저장하려면 프리미엄으로 업그레이드하세요.",
+    "gopremium": "프리미엄으로 이동",
+    "Cancel": "취소",
+    "addsticker": "스티커 추가",
+    "addtext": "텍스트 추가",
+    "Discardchanges": "변경 사항을 삭제하시겠습니까?",
+    "unsavedchanges": "저장되지 않은 변경 사항이 있습니다. 정말로 삭제하시겠습니까?",
+    "keepEditing": "계속 편집",
+    "discard": "삭제",
+    "destructive": "파괴적",
+    "add": "추가",
+    "clearcanvas": "캔버스 지우기",
+    "clearalldrawing": "모든 그림을 지우시겠습니까?",
+    "Clear": "지우기",
+    "Checklist": "체크리스트",
+    "Note": "메모",
+    "checklisttitle": "체크리스트 제목",
+    "listitem": "목록 항목",
+    "additem": "항목 추가",
+    "titlenot": "제목",
+    "starttyping": "입력 시작",
+    "rateus": "평가하기",
+    "column_options": "열 옵션",
+    "add_col": "열 추가",
+    "delete_last_col": "마지막 열 삭제",
+    "Table_options": "테이블 옵션",
+    "add_row": "행 추가",
+    "delete_row": "행 삭제",
+    "delete_col": "마지막 열 삭제",
+    "remove_table": "테이블 삭제",
+    "row_options": "행 옵션",
+    "delete_last_row": "마지막 행 삭제",
+    "saved": "저장됨!",
+    "image_saved": "이미지가 갤러리에 저장되었습니다",
+    "ok": "확인",
+    "permission_need": "권한 필요",
+    "please_allow_access": "갤러리에 저장하려면 접근을 허용하세요.",
+    "could_note_capture": "그림을 캡처할 수 없습니다",
+    "Error": "오류",
+    "saved!": "저장됨! ✓",
+    "drawing_saved_to_your": "그림이 갤러리에 저장되었습니다",
+    "nothing_save": "저장할 항목이 없습니다",
+    "draw_something": "먼저 무언가 그려보세요!",
+    "please_allow_save_image": "갤러리에 이미지를 저장하려면 접근을 허용하세요."
+  },
+  "categories": {
+    "All": "전체",
+    "Personal": "개인",
+    "Work": "업무",
+    "Ideas": "아이디어",
+    "Todo": "할 일",
+    "Shopping": "쇼핑",
+    "Study": "공부",
+    "Health": "건강",
+    "Finance": "재정",
+    "Travel": "여행",
+    "Other": "기타"
+  },
+  "language": {
+    "error": "언어 변경에 실패했습니다",
+    "errorTitle": "오류",
+    "success": "언어가 성공적으로 변경되었습니다!",
+    "successTitle": "성공"
+  },
+  "model": {
+    "newnote": "새 노트",
+    "noteTitle": "노트 제목",
+    "category": "카테고리",
+    "noteColor": "노트 색상",
+    "textFormatting": "텍스트 서식",
+    "styleText": "텍스트 스타일 지정",
+    "content": "내용",
+    "writeNote": "여기에 노트를 작성하세요...",
+    "attachImage": "이미지 첨부",
+    "addImages": "이미지 추가",
+    "editNote": "노트 편집",
+    "imageadded": "이미지가 추가되었습니다",
+    "itemsList": "목록 항목을 입력하세요...",
+    "NoteTheme": "노트 테마",
+    "FontStyle": "글꼴 스타일"
+  },
+  "templates": {
+    "finishing-manifesto": {
+      "title": "완료 선언문",
+      "description": "계획과 작업을 성공적으로 끝까지 수행하세요."
+    },
+    "atomic-habits": {
+      "title": "원자 습관 의도",
+      "description": "오늘의 습관과 목표를 설정하세요."
+    },
+    "daily-planner": {
+      "title": "일일 플래너",
+      "description": "최대 생산성을 위해 하루를 계획하세요."
+    },
+    "weekly-goals": {
+      "title": "주간 목표",
+      "description": "일주일 동안의 목표를 설정하고 추적하세요."
+    },
+    "vision-board": {
+      "title": "비전 보드 노트",
+      "description": "꿈과 장기적인 비전을 기록하세요."
+    },
+    "budget-planner": {
+      "title": "월간 예산",
+      "description": "매월 수입과 지출을 관리하세요."
+    },
+    "anger-log": {
+      "title": "분노 기록",
+      "description": "감정에 영향을 주는 경험을 기록하세요."
+    },
+    "calorie-counter": {
+      "title": "칼로리 카운터",
+      "description": "일일 칼로리 섭취량을 추적하세요."
+    },
+    "gratitude-journal": {
+      "title": "감사 일기",
+      "description": "매일 감사로 긍정적인 마음을 키우세요."
+    },
+    "workout-log": {
+      "title": "운동 기록",
+      "description": "운동 세션과 진행 상황을 추적하세요."
+    },
+    "sleep-tracker": {
+      "title": "수면 추적기",
+      "description": "수면의 질과 패턴을 모니터링하세요."
+    },
+    "water-intake": {
+      "title": "수분 섭취",
+      "description": "매일 물 섭취를 기록하여 수분을 유지하세요."
+    },
+    "love-letter": {
+      "title": "연애 편지",
+      "description": "특별한 사람에게 마음을 표현하세요."
+    },
+    "relationship-goals": {
+      "title": "관계 목표",
+      "description": "파트너와 의미 있는 목표를 설정하세요."
+    },
+    "date-night-planner": {
+      "title": "데이트 계획",
+      "description": "완벽한 데이트를 계획하세요."
+    },
+    "self-love-journal": {
+      "title": "자기 사랑 일기",
+      "description": "매일 자신과의 관계를 돌보세요."
+    },
+    "trip-planner": {
+      "title": "여행 계획",
+      "description": "다음 여행의 모든 세부 사항을 계획하세요."
+    },
+    "packing-list": {
+      "title": "짐 목록",
+      "description": "여행에 필요한 것을 잊지 마세요."
+    },
+    "travel-journal": {
+      "title": "여행 일기",
+      "description": "여행의 추억과 경험을 기록하세요."
+    },
+    "road-trip": {
+      "title": "로드트립 플래너",
+      "description": "재미있고 안전한 여행을 계획하세요."
+    }
+  },
+  "calendar": {
+    "today": "오늘",
+    "month": {
+      "january": "1월",
+      "february": "2월",
+      "march": "3월",
+      "april": "4월",
+      "may": "5월",
+      "june": "6월",
+      "july": "7월",
+      "august": "8월",
+      "september": "9월",
+      "october": "10월",
+      "november": "11월",
+      "december": "12월"
+    },
+    "monthShort": {
+      "jan": "1월",
+      "feb": "2월",
+      "mar": "3월",
+      "apr": "4월",
+      "may": "5월",
+      "jun": "6월",
+      "jul": "7월",
+      "aug": "8월",
+      "sep": "9월",
+      "oct": "10월",
+      "nov": "11월",
+      "dec": "12월"
+    },
+    "day": {
+      "sunday": "일요일",
+      "monday": "월요일",
+      "tuesday": "화요일",
+      "wednesday": "수요일",
+      "thursday": "목요일",
+      "friday": "금요일",
+      "saturday": "토요일"
+    },
+    "dayShort": {
+      "sun": "일",
+      "mon": "월",
+      "tue": "화",
+      "wed": "수",
+      "thu": "목",
+      "fri": "금",
+      "sat": "토"
+    }
+  }
+}

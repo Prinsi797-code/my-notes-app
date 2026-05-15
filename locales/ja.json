@@ -1,0 +1,285 @@
+{
+  "home": {
+    "title": "ノート",
+    "calendar": "カレンダー",
+    "Coach": "コーチ",
+    "planlife": "人生を計画する",
+    "healthyliving": "健康的な生活",
+    "loverelation": "愛と関係",
+    "travel": "旅行",
+    "categorydetail1": "目標に最適な習慣とライフスタイルを築きましょう。",
+    "categorydetail2": "心・体・魂の健康とフィットネスを管理しましょう。",
+    "categorydetail3": "自分自身を含め、大切な関係を育てましょう。",
+    "categorydetail4": "冒険を計画し、一生残る思い出を作りましょう。",
+    "useThisTemplate": "このテンプレートを使用して",
+    "Notifications": "通知",
+    "reminders": "リマインダーON",
+    "NoteReminders": "ノートリマインダー",
+    "getnotified": "ノートの日付の深夜に通知を受け取る",
+    "noupcoming": "今後のリマインダーはありません",
+    "addnoteswith": "カレンダーから未来の日付のノートを追加してリマインダーを受け取りましょう。",
+    "reminderone": "リマインダーON",
+    "reminderoff": "リマインダーOFF",
+    "Notificationsdisabled": "通知が無効",
+    "allreminders": "すべてのリマインダーがキャンセルされました",
+    "notificationsenabled": "通知が有効",
+    "notificationsareon": "通知はONです。今後のノートは深夜に通知されます。",
+    "gotit": "了解",
+    "permissionRequired": "許可が必要",
+    "pleaseAllow": "設定で通知を許可してください",
+    "thistempletehelps": "このテンプレートは毎日整理され目標に集中するのに役立ちます。",
+    "template": "テンプレート",
+    "useTemplete": "テンプレートを使用",
+    "createNote": "ノートを作成",
+    "searchPlaceholder": "ノートを検索...",
+    "pin": "ピン留め",
+    "share": "共有",
+    "delete": "削除",
+    "all": "すべて",
+    "pinned": "ピン留め済み",
+    "save": "保存",
+    "language": "言語",
+    "settings": "設定",
+    "personalization": "パーソナライズ",
+    "theme": "アプリテーマ",
+    "about": "アプリについて",
+    "appversion": "アプリのバージョン",
+    "selecttheme": "テーマを選択",
+    "mode": "モード",
+    "light": "ライト",
+    "dark": "ダーク",
+    "system": "システム",
+    "noNote": "まだノートがありません",
+    "nonoteMatch": "検索に一致するノートがありません",
+    "firstTap": "＋ボタンをタップして最初のノートを作成してください",
+    "noPinNot": "固定されたノートはありません。ここに表示するにはノートを固定してください。",
+    "eachLine": "各行は箇条書きの項目になります",
+    "styleText": "テキストのスタイルを変更",
+    "deleteNote": "ノートを削除",
+    "deleteShort": "このノートを削除してもよろしいですか？",
+    "cancel": "キャンセル",
+    "unpin": "ピンを外す",
+    "restorepurchase": "購入を復元",
+    "privacypolicy": "プライバシーポリシー",
+    "termsofuse": "利用規約",
+    "managesubscription": "サブスクリプションを管理",
+    "subscribenow": "今すぐ購読",
+    "removeads": "広告を削除してプレミアム機能を解除します。",
+    "activecolor": "アクティブカラー",
+    "tapcolorchange": "色をタップして変更",
+    "Opacity": "不透明度",
+    "Size": "サイズ",
+    "savedrawing": "描画を保存",
+    "gopremiumtosave": "今すぐ保存するにはプレミアムにアップグレードしてください。",
+    "gopremium": "プレミアムにする",
+    "Cancel": "キャンセル",
+    "addsticker": "ステッカーを追加",
+    "addtext": "テキストを追加",
+    "Discardchanges": "変更を破棄しますか？",
+    "unsavedchanges": "未保存の変更があります。本当に破棄しますか？",
+    "keepEditing": "編集を続ける",
+    "discard": "破棄",
+    "destructive": "破壊的",
+    "add": "追加",
+    "clearcanvas": "キャンバスをクリア",
+    "clearalldrawing": "すべての描画を削除しますか？",
+    "Clear": "クリア",
+    "Checklist": "チェックリスト",
+    "Note": "メモ",
+    "checklisttitle": "チェックリストのタイトル",
+    "listitem": "リスト項目",
+    "additem": "項目を追加",
+    "titlenot": "タイトル",
+    "starttyping": "入力を開始します",
+    "rateus": "評価する",
+    "column_options": "列オプション",
+    "add_col": "列を追加",
+    "delete_last_col": "最後の列を削除",
+    "Table_options": "テーブルオプション",
+    "add_row": "行を追加",
+    "delete_row": "行を削除",
+    "delete_col": "最後の列を削除",
+    "remove_table": "テーブルを削除",
+    "row_options": "行オプション",
+    "delete_last_row": "最後の行を削除",
+    "saved": "保存しました！",
+    "image_saved": "画像をギャラリーに保存しました",
+    "ok": "OK",
+    "permission_need": "許可が必要です",
+    "please_allow_access": "ギャラリーに保存するためのアクセスを許可してください。",
+    "could_note_capture": "描画をキャプチャできませんでした",
+    "Error": "エラー",
+    "saved!": "保存しました！✓",
+    "drawing_saved_to_your": "描画がギャラリーに保存されました",
+    "nothing_save": "保存するものがありません",
+    "draw_something": "まず何か描いてください！",
+    "please_allow_save_image": "ギャラリーに画像を保存するためのアクセスを許可してください。"
+  },
+  "categories": {
+    "All": "すべて",
+    "Personal": "個人",
+    "Work": "仕事",
+    "Ideas": "アイデア",
+    "Todo": "やること",
+    "Shopping": "買い物",
+    "Study": "勉強",
+    "Health": "健康",
+    "Finance": "財務",
+    "Travel": "旅行",
+    "Other": "その他"
+  },
+  "language": {
+    "error": "言語の変更に失敗しました",
+    "errorTitle": "エラー",
+    "success": "言語が正常に変更されました！",
+    "successTitle": "成功"
+  },
+  "model": {
+    "newnote": "新しいノート",
+    "noteTitle": "ノートのタイトル",
+    "category": "カテゴリー",
+    "noteColor": "ノートの色",
+    "textFormatting": "テキスト書式",
+    "styleText": "テキストをスタイル設定",
+    "content": "内容",
+    "writeNote": "ここにノートを書いてください...",
+    "attachImage": "画像を添付",
+    "addImages": "画像を追加",
+    "editNote": "ノートを編集",
+    "imageadded": "画像が追加されました",
+    "itemsList": "リスト項目を入力してください...",
+    "NoteTheme": "ノートテーマ",
+    "FontStyle": "フォントスタイル"
+  },
+  "templates": {
+    "finishing-manifesto": {
+      "title": "完了マニフェスト",
+      "description": "計画やタスクを最後までやり遂げましょう。"
+    },
+    "atomic-habits": {
+      "title": "原子習慣の意図",
+      "description": "今日の習慣と目標を設定しましょう。"
+    },
+    "daily-planner": {
+      "title": "デイリープランナー",
+      "description": "最大の生産性のために1日を計画しましょう。"
+    },
+    "weekly-goals": {
+      "title": "週間目標",
+      "description": "1週間の目標を設定して追跡しましょう。"
+    },
+    "vision-board": {
+      "title": "ビジョンボードノート",
+      "description": "夢や長期的なビジョンを書き留めましょう。"
+    },
+    "budget-planner": {
+      "title": "月間予算",
+      "description": "毎月の収入と支出を管理しましょう。"
+    },
+    "anger-log": {
+      "title": "怒りログ",
+      "description": "気分に影響する出来事を記録しましょう。"
+    },
+    "calorie-counter": {
+      "title": "カロリーカウンター",
+      "description": "毎日のカロリー摂取量を管理しましょう。"
+    },
+    "gratitude-journal": {
+      "title": "感謝日記",
+      "description": "毎日の感謝でポジティブな思考を育てましょう。"
+    },
+    "workout-log": {
+      "title": "ワークアウト記録",
+      "description": "運動の記録と進捗を追跡しましょう。"
+    },
+    "sleep-tracker": {
+      "title": "睡眠トラッカー",
+      "description": "睡眠の質とパターンを確認しましょう。"
+    },
+    "water-intake": {
+      "title": "水分摂取",
+      "description": "毎日の水分摂取量を記録して健康を保ちましょう。"
+    },
+    "love-letter": {
+      "title": "ラブレター",
+      "description": "大切な人に気持ちを伝えましょう。"
+    },
+    "relationship-goals": {
+      "title": "関係の目標",
+      "description": "パートナーと意味のある目標を設定しましょう。"
+    },
+    "date-night-planner": {
+      "title": "デートプランナー",
+      "description": "完璧なデートを計画しましょう。"
+    },
+    "self-love-journal": {
+      "title": "セルフラブ日記",
+      "description": "毎日自分自身との関係を大切にしましょう。"
+    },
+    "trip-planner": {
+      "title": "旅行プランナー",
+      "description": "次の冒険のすべてを計画しましょう。"
+    },
+    "packing-list": {
+      "title": "持ち物リスト",
+      "description": "旅行に必要なものを忘れないようにしましょう。"
+    },
+    "travel-journal": {
+      "title": "旅行日記",
+      "description": "旅の思い出を記録しましょう。"
+    },
+    "road-trip": {
+      "title": "ロードトリッププランナー",
+      "description": "楽しく安全なドライブ旅行を計画しましょう。"
+    }
+  },
+  "calendar": {
+    "today": "今日",
+    "month": {
+      "january": "1月",
+      "february": "2月",
+      "march": "3月",
+      "april": "4月",
+      "may": "5月",
+      "june": "6月",
+      "july": "7月",
+      "august": "8月",
+      "september": "9月",
+      "october": "10月",
+      "november": "11月",
+      "december": "12月"
+    },
+    "monthShort": {
+      "jan": "1月",
+      "feb": "2月",
+      "mar": "3月",
+      "apr": "4月",
+      "may": "5月",
+      "jun": "6月",
+      "jul": "7月",
+      "aug": "8月",
+      "sep": "9月",
+      "oct": "10月",
+      "nov": "11月",
+      "dec": "12月"
+    },
+    "day": {
+      "sunday": "日曜日",
+      "monday": "月曜日",
+      "tuesday": "火曜日",
+      "wednesday": "水曜日",
+      "thursday": "木曜日",
+      "friday": "金曜日",
+      "saturday": "土曜日"
+    },
+    "dayShort": {
+      "sun": "日",
+      "mon": "月",
+      "tue": "火",
+      "wed": "水",
+      "thu": "木",
+      "fri": "金",
+      "sat": "土"
+    }
+  }
+}

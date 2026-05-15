@@ -1,0 +1,285 @@
+{
+  "home": {
+    "title": "Notas",
+    "calendar": "Calendário",
+    "Coach": "Coach",
+    "planlife": "Planeje sua vida",
+    "healthyliving": "Vida saudável",
+    "loverelation": "Amor e relacionamentos",
+    "travel": "Viagem",
+    "categorydetail1": "Desenvolva uma rotina e estilo de vida que apoiem seus objetivos.",
+    "categorydetail2": "Assuma o controle da sua saúde e bem-estar—mente, corpo e alma.",
+    "categorydetail3": "Cultive os relacionamentos mais importantes, incluindo consigo mesmo.",
+    "categorydetail4": "Planeje suas aventuras e registre memórias duradouras.",
+    "useThisTemplate": "Use este modelo para",
+    "Notifications": "Notificações",
+    "reminders": "Lembretes ATIVOS",
+    "NoteReminders": "Lembretes de notas",
+    "getnotified": "Receba notificação à meia-noite na data da nota",
+    "noupcoming": "Sem lembretes futuros",
+    "addnoteswith": "Adicione notas com datas futuras para receber lembretes.",
+    "reminderone": "Lembretes ATIVOS",
+    "reminderoff": "Lembretes DESATIVADOS",
+    "Notificationsdisabled": "Notificações desativadas",
+    "allreminders": "Todos os lembretes foram cancelados",
+    "notificationsenabled": "Notificações ativadas",
+    "notificationsareon": "Notificações estão ATIVAS. Notas futuras enviarão lembretes à meia-noite.",
+    "gotit": "Entendi",
+    "permissionRequired": "Permissão necessária",
+    "pleaseAllow": "Permita notificações nas configurações do dispositivo",
+    "thistempletehelps": "Este modelo ajuda você a se manter organizado e focado todos os dias.",
+    "template": "Modelo",
+    "useTemplete": "Usar modelo",
+    "createNote": "Criar nota",
+    "searchPlaceholder": "Pesquisar notas...",
+    "pin": "Fixar",
+    "share": "Compartilhar",
+    "delete": "Excluir",
+    "all": "Todas",
+    "pinned": "Fixadas",
+    "save": "Salvar",
+    "language": "Idioma",
+    "settings": "Configurações",
+    "personalization": "Personalização",
+    "theme": "Tema do aplicativo",
+    "about": "Sobre",
+    "appversion": "Versão do aplicativo",
+    "selecttheme": "Selecionar tema",
+    "mode": "Modo",
+    "light": "Claro",
+    "dark": "Escuro",
+    "system": "Sistema",
+    "noNote": "Nenhuma nota ainda",
+    "nonoteMatch": "Nenhuma nota corresponde à sua pesquisa",
+    "firstTap": "Toque no botão + para criar sua primeira nota",
+    "noPinNot": "Nenhuma nota fixada. Fixe uma nota para vê-la aqui.",
+    "eachLine": "Cada linha se tornará um marcador de lista",
+    "styleText": "Estilize seu texto",
+    "deleteNote": "Excluir nota",
+    "deleteShort": "Tem certeza de que deseja excluir esta nota?",
+    "cancel": "Cancelar",
+    "unpin": "Desafixar",
+    "restorepurchase": "Restaurar compras",
+    "privacypolicy": "Política de Privacidade",
+    "termsofuse": "Termos de Uso",
+    "managesubscription": "Gerenciar assinatura",
+    "subscribenow": "Assinar agora",
+    "removeads": "Remova os anúncios e desbloqueie recursos premium.",
+    "activecolor": "Cor ativa",
+    "tapcolorchange": "Toque em uma cor para alterar",
+    "Opacity": "Opacidade",
+    "Size": "Tamanho",
+    "savedrawing": "Salvar desenho",
+    "gopremiumtosave": "Vá para o Premium para salvar instantaneamente.",
+    "gopremium": "Ir para Premium",
+    "Cancel": "Cancelar",
+    "addsticker": "Adicionar adesivo",
+    "addtext": "Adicionar texto",
+    "Discardchanges": "Descartar alterações?",
+    "unsavedchanges": "Você tem alterações não salvas. Deseja descartá-las?",
+    "keepEditing": "Continuar editando",
+    "discard": "Descartar",
+    "destructive": "Destrutivo",
+    "add": "Adicionar",
+    "clearcanvas": "Limpar tela",
+    "clearalldrawing": "Apagar todos os desenhos?",
+    "Clear": "Limpar",
+    "Checklist": "Lista de verificação",
+    "Note": "Nota",
+    "checklisttitle": "Título da lista",
+    "listitem": "Item da lista",
+    "additem": "Adicionar item",
+    "titlenot": "Título",
+    "starttyping": "Comece a digitar",
+    "rateus": "Avalie-nos",
+    "column_options": "Opções de Coluna",
+    "add_col": "Adicionar Coluna",
+    "delete_last_col": "Excluir Última Coluna",
+    "Table_options": "Opções da Tabela",
+    "add_row": "Adicionar Linha",
+    "delete_row": "Excluir Linha",
+    "delete_col": "Excluir Última Coluna",
+    "remove_table": "Remover Tabela",
+    "row_options": "Opções de Linha",
+    "delete_last_row": "Excluir Última Linha",
+    "saved": "Salvo!",
+    "image_saved": "Imagem salva na galeria",
+    "ok": "OK",
+    "permission_need": "Permissão necessária",
+    "please_allow_access": "Por favor, permita acesso para salvar na galeria.",
+    "could_note_capture": "Não foi possível capturar o desenho",
+    "Error": "Erro",
+    "saved!": "Salvo! ✓",
+    "drawing_saved_to_your": "Desenho salvo na sua galeria",
+    "nothing_save": "Nada para salvar",
+    "draw_something": "Desenhe algo primeiro!",
+    "please_allow_save_image": "Por favor, permita acesso para salvar imagens na galeria."
+  },
+  "categories": {
+    "All": "Todos",
+    "Personal": "Pessoal",
+    "Work": "Trabalho",
+    "Ideas": "Ideias",
+    "Todo": "Tarefas",
+    "Shopping": "Compras",
+    "Study": "Estudo",
+    "Health": "Saúde",
+    "Finance": "Finanças",
+    "Travel": "Viagem",
+    "Other": "Outro"
+  },
+  "language": {
+    "error": "Falha ao alterar o idioma",
+    "errorTitle": "Erro",
+    "success": "Idioma alterado com sucesso!",
+    "successTitle": "Sucesso"
+  },
+  "model": {
+    "newnote": "Nova nota",
+    "noteTitle": "Título da nota",
+    "category": "Categoria",
+    "noteColor": "Cor da nota",
+    "textFormatting": "Formatação de texto",
+    "styleText": "Estilize seu texto",
+    "content": "Conteúdo",
+    "writeNote": "Escreva sua nota aqui...",
+    "attachImage": "Anexar imagens",
+    "addImages": "Adicionar imagens",
+    "editNote": "Editar nota",
+    "imageadded": "Imagem adicionada",
+    "itemsList": "Digite os itens da sua lista...",
+    "NoteTheme": "Tema da nota",
+    "FontStyle": "Estilo da fonte"
+  },
+  "templates": {
+    "finishing-manifesto": {
+      "title": "Manifesto de Conclusão",
+      "description": "Conclua seus planos e tarefas com sucesso."
+    },
+    "atomic-habits": {
+      "title": "Intenção de Hábitos Atômicos",
+      "description": "Defina seus hábitos e intenções para o dia."
+    },
+    "daily-planner": {
+      "title": "Planejador Diário",
+      "description": "Planeje seu dia para máxima produtividade."
+    },
+    "weekly-goals": {
+      "title": "Metas Semanais",
+      "description": "Defina e acompanhe suas metas da semana."
+    },
+    "vision-board": {
+      "title": "Notas do Quadro de Visão",
+      "description": "Anote seus sonhos e visão de longo prazo."
+    },
+    "budget-planner": {
+      "title": "Orçamento Mensal",
+      "description": "Acompanhe sua renda e despesas mensalmente."
+    },
+    "anger-log": {
+      "title": "Registro de Raiva",
+      "description": "Registre experiências que afetam seu humor."
+    },
+    "calorie-counter": {
+      "title": "Contador de Calorias",
+      "description": "Acompanhe sua ingestão diária de calorias."
+    },
+    "gratitude-journal": {
+      "title": "Diário de Gratidão",
+      "description": "Desenvolva uma mentalidade positiva com gratidão diária."
+    },
+    "workout-log": {
+      "title": "Registro de Treino",
+      "description": "Acompanhe seus exercícios e progresso."
+    },
+    "sleep-tracker": {
+      "title": "Monitor de Sono",
+      "description": "Monitore a qualidade e os padrões do sono."
+    },
+    "water-intake": {
+      "title": "Consumo de Água",
+      "description": "Mantenha-se hidratado acompanhando a ingestão diária."
+    },
+    "love-letter": {
+      "title": "Carta de Amor",
+      "description": "Expresse seus sentimentos para alguém especial."
+    },
+    "relationship-goals": {
+      "title": "Metas de Relacionamento",
+      "description": "Defina objetivos significativos com seu parceiro."
+    },
+    "date-night-planner": {
+      "title": "Planejador de Encontro",
+      "description": "Planeje um encontro perfeito."
+    },
+    "self-love-journal": {
+      "title": "Diário de Amor Próprio",
+      "description": "Cultive sua relação consigo mesmo diariamente."
+    },
+    "trip-planner": {
+      "title": "Planejador de Viagem",
+      "description": "Planeje todos os detalhes da sua próxima aventura."
+    },
+    "packing-list": {
+      "title": "Lista de Bagagem",
+      "description": "Não esqueça nada para sua viagem."
+    },
+    "travel-journal": {
+      "title": "Diário de Viagem",
+      "description": "Registre suas memórias de viagem."
+    },
+    "road-trip": {
+      "title": "Planejador de Road Trip",
+      "description": "Planeje uma viagem divertida e segura."
+    }
+  },
+  "calendar": {
+    "today": "Hoje",
+    "month": {
+      "january": "Janeiro",
+      "february": "Fevereiro",
+      "march": "Março",
+      "april": "Abril",
+      "may": "Maio",
+      "june": "Junho",
+      "july": "Julho",
+      "august": "Agosto",
+      "september": "Setembro",
+      "october": "Outubro",
+      "november": "Novembro",
+      "december": "Dezembro"
+    },
+    "monthShort": {
+      "jan": "Jan",
+      "feb": "Fev",
+      "mar": "Mar",
+      "apr": "Abr",
+      "may": "Mai",
+      "jun": "Jun",
+      "jul": "Jul",
+      "aug": "Ago",
+      "sep": "Set",
+      "oct": "Out",
+      "nov": "Nov",
+      "dec": "Dez"
+    },
+    "day": {
+      "sunday": "Domingo",
+      "monday": "Segunda-feira",
+      "tuesday": "Terça-feira",
+      "wednesday": "Quarta-feira",
+      "thursday": "Quinta-feira",
+      "friday": "Sexta-feira",
+      "saturday": "Sábado"
+    },
+    "dayShort": {
+      "sun": "Dom",
+      "mon": "Seg",
+      "tue": "Ter",
+      "wed": "Qua",
+      "thu": "Qui",
+      "fri": "Sex",
+      "sat": "Sáb"
+    }
+  }
+}

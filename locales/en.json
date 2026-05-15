@@ -1,0 +1,285 @@
+{
+  "home": {
+    "title": "Notes",
+    "calendar": "Calendar",
+    "Coach": "Coach",
+    "planlife": "Plan Your Life",
+    "healthyliving": "Healthy Living",
+    "loverelation": "Love & Relationships",
+    "travel": "Travel",
+    "categorydetail1": "Develop a routine and lifestyle that would best serve your goals.",
+    "categorydetail2": "Take charge of your health and fitness, mind, body, and soul.",
+    "categorydetail3": "Nurture the relationships that matter most, including with yourself.",
+    "categorydetail4": "Plan your adventures and capture memories that last forever.",
+    "useThisTemplate": "Use this template to",
+    "Notifications": "Notifications",
+    "reminders": "Reminders are ON",
+    "NoteReminders": "Note Reminders",
+    "getnotified": "Get notified at midnight on your note's date",
+    "noupcoming": "No upcoming reminders",
+    "addnoteswith": "Add notes with future dates from the Calendar tab to get midnight reminders.",
+    "reminderone": "Reminders are ON",
+    "reminderoff": "Reminders are OFF",
+    "Notificationsdisabled": "Notifications Disabled",
+    "allreminders": "All reminders have been cancelled",
+    "notificationsenabled": "Notifications Enabled",
+    "notificationsareon": "Notifications are ON. Future notes will send reminders at midnight on their date.",
+    "gotit": "Got it",
+    "permissionRequired": "Permission Required",
+    "pleaseAllow": "Please allow notifications in your device Settings to enable reminders",
+    "thistempletehelps": "This template helps you stay organized and focused on your goals every single day.",
+    "template": "Template",
+    "useTemplete": "Use Template",
+    "createNote": "Create Note",
+    "searchPlaceholder": "Search notes...",
+    "pin": "Pin",
+    "share": "Share",
+    "delete": "Delete",
+    "all": "All",
+    "pinned": "Pinned",
+    "save": "Save",
+    "language": "Language",
+    "settings": "Settings",
+    "personalization": "Personalization",
+    "theme": "App Theme",
+    "about": "About",
+    "appversion": "App Version",
+    "selecttheme": "Select Theme",
+    "mode": "Mode",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "noNote": "No Note Yet",
+    "nonoteMatch": "No notes match your search",
+    "firstTap": "Tap the + button to create your first note",
+    "noPinNot": "No pinned notes. Pin a note to see it here.",
+    "eachLine": "Each line will become a bullet point",
+    "styleText": "Style your text",
+    "deleteNote": "Delete Note",
+    "deleteShort": "Are you sure you want to delete this note?",
+    "cancel": "Cancel",
+    "unpin": "Unpin",
+    "restorepurchase": "Restore Purchases",
+    "privacypolicy": "Privacy Policy",
+    "termsofuse": "Terms of Use",
+    "managesubscription": "Manage Subscription",
+    "subscribenow": "Subscribe Now",
+    "removeads": "Remove ads and unlock\npremium features.",
+    "activecolor": "Active Color",
+    "tapcolorchange": "Tap a color to change",
+    "Opacity": "Opacity",
+    "Size": "Size",
+    "savedrawing": "Save Drawing",
+    "gopremiumtosave": "Go Premium to save instantly.",
+    "gopremium": "Go Premium",
+    "Cancel": "Cancel",
+    "addsticker": "Add Sticker",
+    "addtext": "Add Text",
+    "Discardchanges": "Discard Changes?",
+    "unsavedchanges": "You have unsaved changes. Are you sure you want to discard them?",
+    "keepEditing": "Keep Editing",
+    "discard": "Discard",
+    "destructive": "destructive",
+    "add": "Add",
+    "clearcanvas": "Clear Canvas",
+    "clearalldrawing": "Clear all drawings?",
+    "Clear": "Clear",
+    "Checklist": "Checklist",
+    "Note": "Note",
+    "rateus": "Rate Us",
+    "checklisttitle": "check list Title",
+    "listitem": "List item",
+    "additem": "Add item",
+    "titlenot": "Title",
+    "starttyping": "Start typing",
+    "column_options": "COLUMN OPTIONS",
+    "add_col": "Add Column",
+    "delete_last_col": "Delete Last Column",
+    "Table_options": "TABLE OPTIONS",
+    "add_row": "Add Row",
+    "delete_row": "Delete Last Row",
+    "delete_col": "Delete Last Column",
+    "remove_table": "Remove Table",
+    "row_options": "ROW OPTIONS",
+    "delete_last_row": "Delete Last Row",
+    "saved": "Saved!",
+    "image_saved": "Image saved to gallery",
+    "ok": "ok",
+    "permission_need": "Permission needed",
+    "please_allow_access": "Please allow access to save to gallery.",
+    "could_note_capture": "Could not capture drawing",
+    "Error": "error",
+    "saved!": "Saved! ✓",
+    "drawing_saved_to_your": "Drawing saved to your gallery",
+    "nothing_save": "Nothing to save",
+    "draw_something": "Draw something first!",
+    "please_allow_save_image": "Please allow access to save images to gallery."
+  },
+  "categories": {
+    "All": "All",
+    "Personal": "Personal",
+    "Work": "Work",
+    "Ideas": "Ideas",
+    "Todo": "Todo",
+    "Shopping": "Shopping",
+    "Study": "Study",
+    "Health": "Health",
+    "Finance": "Finance",
+    "Travel": "Travel",
+    "Other": "Other"
+  },
+  "language": {
+    "error": "Failed to change language",
+    "errorTitle": "Error",
+    "success": "Language changed successfully!",
+    "successTitle": "Success"
+  },
+  "model": {
+    "newnote": "New Note",
+    "noteTitle": "Note Title",
+    "category": "Category",
+    "noteColor": "Note Color",
+    "textFormatting": "Text Formatting",
+    "styleText": "Style your text",
+    "content": "Content",
+    "writeNote": "Write your note here...",
+    "attachImage": "Attach Images",
+    "addImages": "Add Images",
+    "editNote": "Edit Note",
+    "imageadded": "image added",
+    "itemsList": "Type your list items...",
+    "NoteTheme": "Note Theme",
+    "FontStyle": "Font Style"
+  },
+  "templates": {
+    "finishing-manifesto": {
+      "title": "Finishing Manifesto",
+      "description": "Follow through with your plans and tasks successfully."
+    },
+    "atomic-habits": {
+      "title": "Atomic Habits Intention",
+      "description": "Set your habits and intentions for the day."
+    },
+    "daily-planner": {
+      "title": "Daily Planner",
+      "description": "Plan your day for maximum productivity."
+    },
+    "weekly-goals": {
+      "title": "Weekly Goals",
+      "description": "Set and track your goals for the entire week."
+    },
+    "vision-board": {
+      "title": "Vision Board Notes",
+      "description": "Write down your dreams and long-term vision"
+    },
+    "budget-planner": {
+      "title": "Monthly Budget",
+      "description": "Track your income and expenses every month"
+    },
+    "anger-log": {
+      "title": "Anger Log",
+      "description": "Record experiences that impact your mood."
+    },
+    "calorie-counter": {
+      "title": "Calorie Counter",
+      "description": "Keep track of your daily calorie intake."
+    },
+    "gratitude-journal": {
+      "title": "Gratitude Journal",
+      "description": "Build a positive mindset with daily gratitude."
+    },
+    "workout-log": {
+      "title": "Workout Log",
+      "description": "Track your exercise sessions and progress."
+    },
+    "sleep-tracker": {
+      "title": "Sleep Tracker",
+      "description": "Monitor your sleep quality and patterns."
+    },
+    "water-intake": {
+      "title": "Water Intake",
+      "description": "Stay hydrated by tracking your daily water intake."
+    },
+    "love-letter": {
+      "title": "Love Letter",
+      "description": "Express your feelings to someone special."
+    },
+    "relationship-goals": {
+      "title": "Relationship Goals",
+      "description": "Set meaningful goals with your partner."
+    },
+    "date-night-planner": {
+      "title": "Date Night Planner",
+      "description": "Plan the perfect date night for you and your partner"
+    },
+    "self-love-journal": {
+      "title": "Self Love Journal",
+      "description": "Nurture your relationship with yourself daily"
+    },
+    "trip-planner": {
+      "title": "Trip Planner",
+      "description": "Plan every detail of your nextadventure."
+    },
+    "packing-list": {
+      "title": "Packing Checklist",
+      "description": "Never forget anything on your next trip."
+    },
+    "travel-journal": {
+      "title": "Travel Journal",
+      "description": "Capture your memories and experiences while travelling."
+    },
+    "road-trip": {
+      "title": "Road Trip Planner",
+      "description": "Plan a fun and safe road trip with your crew."
+    }
+  },
+  "calendar": {
+    "today": "Today",
+    "month": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    },
+    "monthShort": {
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "May",
+      "jun": "Jun",
+      "jul": "Jul",
+      "aug": "Aug",
+      "sep": "Sep",
+      "oct": "Oct",
+      "nov": "Nov",
+      "dec": "Dec"
+    },
+    "day": {
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday"
+    },
+    "dayShort": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    }
+  }
+}
