@@ -184,7 +184,7 @@ export default function SplashScreen() {
             },
           ]}
         >
-          <Image source={require('../assets/images/splashlogo.png')} style={globalStyles.logo} />
+          <Image source={require('../assets/images/logo2.png')} style={globalStyles.logo} />
           <View style={globalStyles.glowRing} />
         </Animated.View>
         <Animated.Text
