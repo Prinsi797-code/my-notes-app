@@ -2,7 +2,7 @@
   "expo": {
     "name": "UltraNotes",
     "slug": "my-notes-app",
-    "version": "1.0.8",
+    "version": "1.0.13",
     "orientation": "portrait",
     "owner": "epick123",
     "icon": "./assets/images/logo2.png",
@@ -13,7 +13,8 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.hevin.notesApp",
-      "buildNumber": "1",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "10",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
         "NSPhotoLibraryUsageDescription": "UltraNotes needs access to your Photo Library so you can select photos and attach them to your notes.",
@@ -57,7 +58,21 @@
           "iosAppId": "ca-app-pub-3940256099942544~1458002511"
         }
       ],
-      "expo-iap"
+      "expo-iap",
+      "@react-native-firebase/app",
+      "@react-native-firebase/analytics",
+      [
+  "expo-build-properties",
+  {
+    "ios": {
+      "extraPods": [
+        { "name": "GoogleUtilities", "modular_headers": true },
+        { "name": "FirebaseCoreInternal", "modular_headers": true },
+        { "name": "FirebaseABTesting", "modular_headers": true }
+      ]
+    }
+  }
+]
     ],
     "experiments": {
       "typedRoutes": true,

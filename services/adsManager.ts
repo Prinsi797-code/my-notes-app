@@ -78,7 +78,6 @@ class AdsManager {
   private isDetailInterstitialLoaded = false;
   private isNoteInterstitialLoaded = false;
 
-  // NEW: App Resume Interstitial (main_screen_ad)
   private appResumeInterstitialAd: InterstitialAd | null = null;
   private isAppResumeInterstitialLoaded = false;
   private isAppResumeAdEnabled = false;
@@ -97,14 +96,6 @@ class AdsManager {
   private recentAdShown: { screenName: string; timestamp: number } | null = null;
   private readonly AD_COOLDOWN_MS = 60000;
 
-  // private async isUserPremium(): Promise<boolean> {
-  //   try {
-  //     return await PurchaseManager.isPremium();
-  //   } catch {
-  //     return false;
-  //   }
-  // }
-  
   private async isUserPremium(): Promise<boolean> {
     try {
       const isPremium = await PurchaseManager.isPremium();
@@ -127,7 +118,6 @@ class AdsManager {
     return AdsManager.instance;
   }
 
-  // ==================== LOAD CONFIG FROM FIREBASE ====================
   async loadConfigFromFirebase(): Promise<boolean> {
     try {
       console.log('Loading ad config from Firebase...');
@@ -217,9 +207,6 @@ class AdsManager {
         this.isReviewInterstitialLoaded = true;
         console.log('✅ Review Interstitial Ad Loaded');
       });
-
-      // ❌ CLOSED listener yahan se REMOVE kar diya
-      // Reload after show is handled inside showReviewAd
 
       this.reviewInterstitialAd.addAdEventListener(AdEventType.ERROR, (error) => {
         console.log('Review Ad Error:', error);
@@ -403,14 +390,12 @@ class AdsManager {
       this.isFloorInterstitialLoaded = false;
     }
   }
-  // Yeh method call karo jab app background se foreground me aaye
   async showAppResumeAd(): Promise<boolean> {
     console.log('🔄 Attempting App Resume Ad (background → foreground)');
     if (await this.isUserPremium()) {
       console.log('👑 Premium user — skipping app resume ad');
       return false;
     }
-    // Skip flag check (e.g. splash screen ke baad skip karna ho)
     if (AdsManager.skipNextAppOpenAd) {
       console.log('Skipping app resume ad (skipNextAppOpenAd = true)');
       AdsManager.skipNextAppOpenAd = false;
@@ -509,14 +494,12 @@ class AdsManager {
     }
   }
 
-  // Check karo kya app resume ad enable hai
   isAppResumeAdActive(): boolean {
     return this.isAppResumeAdEnabled;
   }
 
   // ==================== DETAIL SCREEN INTERSTITIAL AD ====================
   async loadDetailInterstitialAd() {
-    // Only load if floor interstitial is not available
     if (this.isFloorInterstitialLoaded && this.floorInterstitialAd) {
       console.log('Floor interstitial available, skipping detail interstitial load');
       return;
@@ -618,7 +601,7 @@ class AdsManager {
   async showSplashAd(): Promise<boolean> {
     console.log('Attempting Splash Screen Ad');
     if (await this.isUserPremium()) {
-      await logAdAnalytics('ad_premium_skip', 'splash', 'splash_screen');
+      logAnalyticsEvent('ad_premium_skip', { screen: 'splash_screen' });
 
       console.log('👑 Premium user — skipping splash ad');
       return false;
@@ -681,12 +664,10 @@ class AdsManager {
       const adUnitId = this.getAdUnitId(splashConfig.inter_id);
 
       try {
-        // Create and load splash ad
         const splashAd = InterstitialAd.createForAdRequest(adUnitId, {
           requestNonPersonalizedAdsOnly: true,
         });
 
-        // Wait for ad to load
         await new Promise<void>((resolve, reject) => {
           const timeout = setTimeout(() => {
             reject(new Error('Ad load timeout'));
@@ -725,7 +706,6 @@ class AdsManager {
     try {
       this.isShowingAd = true;
 
-      // Set up promise to wait for ad close
       const adClosedPromise = new Promise<void>((resolve) => {
         const closedListener = adToShow!.addAdEventListener(
           AdEventType.CLOSED,
@@ -737,7 +717,6 @@ class AdsManager {
           }
         );
 
-        // Fallback timeout (30 seconds)
         setTimeout(() => {
           console.log('Splash ad timeout');
           this.isShowingAd = false;
@@ -746,14 +725,12 @@ class AdsManager {
         }, 30000);
       });
 
-      // Show the ad
       await adToShow.show();
       logAnalyticsEvent('ad_shown', {
         ad_type: adType,
         screen: 'splash_screen',
       });
 
-      // Save based on frequency
       if (frequency === 1) {
         await AsyncStorage.setItem(this.SPLASH_AD_SHOWN_KEY, 'true');
       }
@@ -763,7 +740,6 @@ class AdsManager {
 
       console.log(`Splash ad shown (${adType}), waiting for close...`);
 
-      // Wait for ad to be closed
       await adClosedPromise;
 
       console.log('Splash ad flow complete');
@@ -782,7 +758,6 @@ class AdsManager {
   private readonly LANGUAGE_AD_LAST_SHOWN_KEY = 'language_ad_last_shown';
 
   async loadLanguageInterstitialAd() {
-    // Only load if floor interstitial is not available
     if (this.isFloorInterstitialLoaded && this.floorInterstitialAd) {
       console.log('Floor interstitial available, skipping language interstitial load');
       return;
@@ -884,9 +859,6 @@ class AdsManager {
       }
     }
 
-    // 3 = every time (no check needed)
-
-    // Priority: floor_inter > language_inter
     let adToShow: InterstitialAd | null = null;
     let adType = '';
 
@@ -985,7 +957,6 @@ class AdsManager {
 
     // 3 = every time (no check needed)
 
-    // Priority: floor_inter > setting_inter
     let adToShow: InterstitialAd | null = null;
     let adType = '';
 
@@ -1255,7 +1226,6 @@ class AdsManager {
       return null;
     }
 
-    // Type guard for configs with banner
     if ('ad_flag' in screenConfig && 'baner_id' in screenConfig) {
       const config = screenConfig as { ad_flag: number; baner_id: string };
 
@@ -1333,9 +1303,8 @@ class AdsManager {
     this.loadDetailInterstitialAd();
     this.loadNoteInterstitialAd();
 
-    // App Resume Ad bhi load karo
     await this.loadAppResumeInterstitialAd();
-    await this.loadReviewInterstitialAd(); // 👈 yeh add karo
+    await this.loadReviewInterstitialAd();
 
   }
 

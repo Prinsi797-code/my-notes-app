@@ -30,20 +30,9 @@ export default function RootLayout() {
     return () => subscription.remove();
   }, []);
 
-  // useEffect(() => {
-  //   const sub = Notifications.addNotificationResponseReceivedListener(response => {
-  //     const screen = response.notification.request.content.data?.screen;
-  //     if (screen === 'PremiumScreen') {
-  //       router.push('/PremiumScreen');
-  //     }
-  //   });
-  //   return () => sub.remove();
-  // }, []);
-
-  // App fresh open होने पर हमेशा SplashScreen से start करो
   useEffect(() => {
     if (isReady) {
-      router.replace('/SplashScreen');
+      router.replace('/(tabs)');
     }
   }, [isReady]);
 

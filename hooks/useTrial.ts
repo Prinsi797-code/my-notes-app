@@ -1,4 +1,3 @@
-import { router } from 'expo-router';
 import { useCallback, useEffect, useState } from 'react';
 import PurchaseManager from '../services/purchaseManager';
 
@@ -34,14 +33,14 @@ export function useTrial() {
   }, []);
 
   // Premium nahi hai toh PremiumScreen open karo
-  useEffect(() => {
-    if (!loading && trialExpiredAndNotPremium) {
-      const timer = setTimeout(() => {
-        router.push('/PremiumScreen');
-      }, 500);
-      return () => clearTimeout(timer);
-    }
-  }, [loading, trialExpiredAndNotPremium]);
+  // useEffect(() => {
+  //   if (!loading && trialExpiredAndNotPremium) {
+  //     const timer = setTimeout(() => {
+  //       router.push('/PremiumScreen');
+  //     }, 500);
+  //     return () => clearTimeout(timer);
+  //   }
+  // }, [loading, trialExpiredAndNotPremium]);
 
   return { trialActive: false, remainingDays: 0, loading, refresh: checkTrial };
 }

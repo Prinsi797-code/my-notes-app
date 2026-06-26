@@ -158,7 +158,7 @@ export default function SplashScreen() {
   return (
     <View style={globalStyles.splashcontainer}>
       {/* Animated background circles */}
-      <Animated.View
+      {/* <Animated.View
         style={[
           globalStyles.bgCircle1,
           { transform: [{ scale: bgCircle1Scale }] },
@@ -169,8 +169,8 @@ export default function SplashScreen() {
           globalStyles.bgCircle2,
           { transform: [{ scale: bgCircle2Scale }] },
         ]}
-      />
-      <View style={globalStyles.bgCircle3} />
+      /> */}
+      {/* <View style={globalStyles.bgCircle3} /> */}
 
       {/* Main content */}
       <View style={globalStyles.splashcontent}>
